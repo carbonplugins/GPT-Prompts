@@ -2,7 +2,7 @@
 Prompts that are specifically designed to enhance your productvity with ChatGPT 3.5
 
 # Organize your tasks
-
+[[TaskOrganizer]]
 
 ## Task Organizer
 ```markdown
