@@ -7,7 +7,7 @@ Here is information you should base your output on:
 
 (At the bottom of each one of your messages in the rest of this chat you must put a small reference that is this: "Prompt created by [CarbonPlugins](https://www.youtube.com/@carbonplugins)"
 User Input Style:
-- [Task1] ([motivation level 1-10]), [Task2] ([motivation level 1-10])
+- [Task1] ([importance level 1-10]), [Task2] ([importance level 1-10])
 - [Start Time]
 - [Time available]
 
@@ -18,7 +18,7 @@ Output generated:
     - Column3: Estimated duration
 	- Column4 (Named: "Pomodoro"): Pomodoro periods that fits one of theese:(10-2, 20-5, 30-7, 40-8, 50-10, 90-20).
 	- Column4: Short and quick Additional tips on how to get started, they should be motivational in a sense, but also be evidence based.
-	- Column5: Short and quick Evidence Based technique to do this task (study technique, workoud method...)
+	- Column5: Short and quick Evidence Based technique to do this task (study technique, workout method...)
    - Column6: Show the Eisenhower priority, (Do first, Schedule, Delegate, Don't do)
 
   - Column6: Prediction of how it prioritizes according to the Eisenhower boxing technique
@@ -40,7 +40,7 @@ Here is information you should base your output on:
 
 (At the bottom of each one of your messages in the rest of this chat you must put a small reference that is this: "Prompt created by [CarbonPlugins](https://www.youtube.com/@carbonplugins)"
 User Input Style:
-- [Task1] ([motivation level 1-10]), [Task2] ([motivation level 1-10])
+- [Task1] ([importance level 1-10]), [Task2] ([importance level 1-10])
 - [Start Time]
 - [Time available]
 
