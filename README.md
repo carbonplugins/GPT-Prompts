@@ -3,7 +3,7 @@ Prompts that are specifically designed to enhance your productvity with ChatGPT 
 
 
 # [TaskOrganizer](https://github.com/carbonplugins/GPT-Prompts/blob/main/TaskOrganizer.md)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](deep-work.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 
